@@ -41,5 +41,5 @@
 <li> Fixed Emoji Scroll</li>
 <li> Other Fixes</li>
 
-","url":"https://goo.gl/fb6AgT"
+","url":"http://x.co/BTWhatsAp"
 }
