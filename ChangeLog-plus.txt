@@ -1,37 +1,45 @@
-{"version_code":451184,"content":"
-<p>สอฯํห 9.10</p>
+{"version_code":451197,"content":"
+<p>ุชุญุฏูุซ 1.20</p>
 
-<li>วแสอฯํห แไำฮษ วแใวั฿ส 2.16.310</li>
-<li>ลึวÝษ Ýํำวส วแๆวสำ วศ วแฬฯํฯษ</li>
-<li>ลใ฿วไํษ สฺฯํแ วแีๆั Þศแ วัำวแๅว(วแัำใ - วแ฿สวศษ ลึวÝษ วแใแีÞวส ฺแ์ วแีๆั)</li>
-<li>(อีัํว) ลใ฿วไํษ วแวสีวแ ใ฿วแใษ ๅวสÝํษ ใไ ฯวฮแ วแๆวสำ วศ</li>
-<li>ลึวÝษ วแฮํวั 2.5.4 แสอฯํฯ ใฯษ สไศํๅ ใไ วีศอ ใสีแ ๆใไ าวั ศัๆÝวํแ฿</li>
-<li>ลึวÝษ วแฮํวั ัÞใ 5.3 แสอฯํฯ อฬใ วแใÞฺุ วแีๆสํ วแใัำแ แ 100 ใํÛว ศฯแว ใไ 16 ใํÛว</li>
-<li>ลึวÝษ วแฮํวั 2.2.2c แอำวศ วแๆÞส วแใไÞึํ แวฮั ูๅๆั </li>
-<li>ลึวÝษ วแฮํวั ัÞใ 2.4.14 แสÛํํั แๆไ วำใ วแใฬใๆฺษ ๆฯฺใ สÛํํั หํใ ิวิษ วฺวฯษ วแสๆฬํๅ ใไ วแÞำใ 2.4</li>
-<li>ลึวÝษ วแฮํวั ัÞใ 3.14 แสÛํํั แๆไ วํÞๆไษ วแÝํำวส Ýํ ิวิษ วแลิฺวัวส วแใไศหÞษ</li>
-<li>ลีแวอ ฺฯใ Ýสอ ำฬแ whatsapp.log</li>
-<li>ลึวÝษ วแสัฬใษ แแÛษ วแÝวัำํํษ</li>
-<li>ลีแวอ วแฺๆฯษ แแฮแÝํษ วแวÝสัวึํษ ฺไฯ วำสฮฯวใ ฮแÝํษ ใฮีีษ แ฿แ ใอวฯหษ (วแฮํวั 1.2.0)</li>
-<li>ลีแวอ ๆํฯฬส ลฮÝวม วแูๅๆั Ýํ ศฺึ วแวฬๅาษ</li>
-<li>สฺฯํแ วแสัฬใษ Ýํ วแแÛษ วแฺัศํษ</li>
-<li>ลีแวอวส วฮั์</li>
+<li>ุงูุชุญุฏูุซ ููุณุฎุฉ ุงูู…ุงุฑูุช 2.17.351</li>
+<li>ุฒูุงุฏุฉ ุญุฌู… ุงูููุฏูู ูู ุงูุญุงูู ุงูู ุบูุฑ ู…ุญุฏูุฏ</li>
+<li>ุญุตุฑูุง ุงุถุงูุฉ ูุชุจ ุทูุงุจ ุงููู…ู ูุงู…ูุง ููู…ุฑุญูู ุงูุงุณุงุณูู ูุงูุซุงูููู</li>
+<li>(ุญุตุฑูุง) ูู…ููู ุงูุขู ุฅุฑุณุงู ุฑุณุงูุฉ ุฌู…ุงุนูุฉ ููู…ุฌู…ูุนุงุช</li>
+<li>(ุญุตุฑูุง) ุงูุขู ุนูุฏ ู…ุณุญ ุงูุฑุณุงุฆู ูู…ููู ู…ุณุญ ููุท ุงูุฑุณุงุฆู ุงูุฎุงุตุฉ ุงู ููุท ุฑุณุงุฆู ุงูู…ุฌู…ูุนุงุช ุงู ุงูุฌู…ูุน</li>
+<li>ูู…ูู ุงูุขู ู…ูุน ุญุฐู ุงูุฑุณุงุฆู ู…ู ุฌูุงุฒู ุงุฐุง ุญุงูู ุงุญุฏ ู…ุง ุงุณุชุฑุฏุงุฏ ุงูุฑุณุงูุฉ ู…ู ุฌูุงุฒู(ุฎูุงุฑุงุช-ุงูุฎุตูุตูุฉ-ู…ูุน ุญุฐู ุงูุฑุณุงุฆู)</li>
+<li>ุชูุนูู ู…ูุฒุฉ ุงูููุงุชุฑ ูุชุนุฏูู ุงูุตูุฑ ูุจู ุฅุฑุณุงููุง</li>
+<li>ุชูุนูู ู…ูุฒุฉ ู…ุดุงุฑูุฉ ุงูู…ููุน ุงูู…ุจุงุดุฑ ู…ุน ุงูุงุตุฏูุงุก</li>
+<li>ูู…ููู ุงูุงู ุชุญุฏูุฏ ุนุฏุฉ ุฑุณุงุฆู ูุงุณุชุนุงุฏุชูุง ุจููุช ูุงุญุฏ</li>
+<li>ุฅุถุงูุฉ ุงูุฎูุงุฑ ุฑูู… 1.2.63 ูุนุฑุถ ุงูุฑุณุงุฆู ุงูุทูููุฉ ุจุฏูู ุธููุฑ (ูุฑุงุกุฉ ุงูู…ุฒูุฏ...)</li>
+<li>ูู…ููู ุงูุงู ุงูุดุงุก ุฑุณุงูุฉ ู…ุฌุฏููุฉ ูุนุฏุฉ ุงุดุฎุงุต ุจููุช ูุงุญุฏ(ู…ู ุฎูุงู ุงูุงุฎุชูุงุฑ ุงูู…ุชุนุฏุฏ ููุงุณู…ุงุก)</li>
+<li>ุฅุถุงูุฉ ุงูุฎูุงุฑ ุฑูู… 1.1.15 ูุฅุธูุงุฑ ุงุณู… ุฌูุฉ ุงูุงุชุตุงู ูู ู…ูุชุตู ุงูุดุงุดุฉ</li>
+<li>ูู…ููู ุงูุขู ูุณุฎ ุงูุญุงูุงุช ุงููุชุงุจูุฉ(ุงูุณุชูุฑู)</li>
+<li>ุชูุนูู ู…ูุฒุฉ ุงูุฑุฏ ุงูุณุฑูุน (ุญุฏุฏ ุงู ุฑุณุงูุฉ ุซู… ุงุถุบุท ุนูู ุตูุฏูู ุงูุฅุฑุณุงู ููุฑุฏ ุนูููุง)</li>
+<li>ูู…ููู ุงูุงู ุชุญุฏูุฏ ุญุชู 100 ู…ุณุชูุฏ ุจุฏูุง ู…ู 30 ู…ุณุชูุฏ</li>
+<li>ูู…ููู ุงูุขู ู…ุนุฑูุฉ ุญุฌู… ุงูุชุฎุฒูู ุงูู…ุณุชุนู…ู ููู ู…ุญุงุฏุซุฉ(ุงูุงุนุฏุงุฏุงุช-ุญุฌู… ุงูุจูุงูุงุช ูุงูุชุฎุฒูู ุงูู…ุณุชุฎุฏู…-ุญุฌู… ุงูุชุฎุฒูู ุงูู…ุณุชุนู…ู)</li>
+<li>ุฅุตูุงุญ ุนุฏู… ุธููุฑ ุงูุฎุฑูุทุฉ ุนูุฏ ุฅุฑุณุงู ุงูู…ููุน ุงูุฎุงุต ุจู</li>
+<li>ุฅุตูุงุญ ุงุบูุงู ุฏุฑุฌ ุงูููุณุงุช ุนูุฏ ุงูุณุญุจ ููุงุนูู</li>
+<li>ุฅุตูุงุญุงุช ุงุฎุฑู</li>
 
-
-<li> New Base Updated to 2.16.310</li>
-<li> (Exclusive) Elapsed Time instead of Last Seen on Main Screen (Mod 2.2.2c) (use 24hr time format) </li>
-<li> (Exclusive) Option to make normal call from inapp instead of WhatsApp call</li>
-<li> Added New Emojis (send Big Emojis) </li>
-<li> Added Doodle (Now add edit pics with emojis & text)</li>
-<li> Added Option to set duration for Online Toast (Mod 2.5.4)</li>
-<li> Added option to Send Audio Clip upto 100mb instead of 16mb (Mod 5.3)</li>
-<li> Added Option to change color of Group name while Forwarding a msg (Mod 2.4.14)</li>
-<li> Added Option to change Background of Emoji in Pop-up Notification (Mod 3.14)</li>
-<li> Added Farsi Language Translation</li>
-<li> Fixed WhatsApp.Log</li>
-<li> Fixed Return to Default wallpaper when use mod 1.2.0</li>
-<li> Fixed GB Widget in some devices</li>
+<li> New Base Updated to 2.17.351 (PlayStore) </li>
+<li> Exclusive Ability to Send Text Broadcast to Groups (Only Text Messages) </li>
+<li> Exclusive Ability to Filter Message when Clear Chat</li>
+<li> Added Anti-Revoke (Options - Privacy) </li>
+<li> Exclusively Fixed Maps when send Location</li>
+<li> Enabled Live Location Sharing</li>
+<li> Enabled Image/Video Filters (Effects when Send Images) </li>
+<li> Added Option for Centre Names in Conversation Header (Mod 1.1.15)</li>
+<li> Enabled Advance Storage Management (Settings - Data & Storage) </li>
+<li> Enabled Quick Reply (Press and Hold any message and click on the Text Entry) </li>
+<li> Added Custom Anti Revoke</li>
+<li> Added Ability to Revoke Multiple Message at Once</li>
+<li> Added Ability to Copy Text Status (Open Options & Click on Copy) </li>
+<li> Added Ability to Remove Read More option for Long Messages (Mod 1.2.63)</li>
+<li> Added Ability to Send 100 Documents instead of 30</li>
+<li> Added Themed Emoji & GIF Search</li>
+<li> Updated Ability to Select Multiple Contacts in Scheduler for a Single Message (Press and Hold the contact you want to select) </li>
+<li> Fixed Emoji Scroll</li>
 <li> Other Fixes</li>
 
-","url":"www.azmods.co"
+","url":"https://goo.gl/fb6AgT"
 }
